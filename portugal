@@ -30,6 +30,6 @@ rtmp://s--03.privatestream.tv:1935/privatestream playpath=sportivhsx swfUrl=http
 #EXTINF:-1,SPORTTV 1 SD **live**
 http://178.162.199.155:8088/live/iframetvdesporto3/playlist.m3u8?id=96180&wowzasessionid=3842091589&pk=087c6585e5969f1852610518bb7347c2c4f19f9f8de9a26828b9fe91607006bd
 #EXTINF:-1,MOTORS TV LOW SD **live**
-rtmp://178.162.199.73/live playpath=motoratos?id=92008&pk=d7e65bd00cb0369309199bacce87e420dc36cbcf15e1bb073d6fe9677df49cca swfUrl=http://www.ucaster.me/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.me/embedplayer/motoratos/1/600/400 conn=S:OK
+rtmp://178.162.199.73/live playpath motoratos?id=92008&pk=d7e65bd00cb0369309199bacce87e420dc36cbcf15e1bb073d6fe9677df49cca swfUrl=http://www.ucaster.me/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.me/embedplayer/motoratos/1/600/400 conn=S:OK
 #EXTINF:-1,SPORTING TV LOW SD **OFF**
 rtmp://178.162.199.73/live playpath=seportem?id=95893&pk=7253395cd4a5e99e1d233d7ad3398683af28efcaa9bd116e0cc4882bd4760c87 swfUrl=http://www.ucaster.me/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.me/embedplayer/seportem/1/600/ conn=S:OK

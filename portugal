@@ -28,7 +28,7 @@ rtmp://84.20.77.50:554/live/ playpath=tvi swfurl=http://www.cdf-dignelesbains.fr
 #EXTINF:-1,SPORTTV 1 LOW SD **live**
 rtmp://s--03.privatestream.tv:1935/privatestream playpath=sportivhsx swfUrl=http://privatestream.tv/clappr/RTMP.swf?inline=1 live=1 pageUrl=http://privatestream.tv/player?streamname=sportivhsx&width=555&height=442 conn=S:OK --live
 #EXTINF:-1,SPORTTV 1 SD **live**
-http://178.162.199.155:8088/live/iframetvdesporto3/playlist.m3u8?id=96180&wowzasessionid=3842091589&pk=087c6585e5969f1852610518bb7347c2c4f19f9f8de9a26828b9fe91607006bd
+http://178.162.199.131:8088/live/iframetvdesporto3/playlist.m3u8?id=96180&pk=087c6585e5969f1852610518bb7347c2c4f19f9f8de9a26828b9fe91607006bd
 #EXTINF:-1,MOTORS TV LOW SD **live**
 rtmp://178.162.199.73/live playpath=motoratos?id=92008&pk=d7e65bd00cb0369309199bacce87e420dc36cbcf15e1bb073d6fe9677df49cca swfUrl=http://www.ucaster.me/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.me/embedplayer/motoratos/1/600/400 conn=S:OK
 #EXTINF:-1,SPORTING TV LOW SD **OFF**
